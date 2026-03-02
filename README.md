@@ -9,3 +9,5 @@ Estudio en la Universidad de los Llanos
 
 Me gusta programar y trabajar con bases de datos
 
+Me gusta trabajar en tiempos parciales
+
