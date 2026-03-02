@@ -12,3 +12,5 @@ Me gusta programar y trabajar con bases de datos
 
 Me gusta trabajar en tiempos parciales
 
+Me gusta escuchar musica de cualquier genero musical
+
